@@ -19,3 +19,4 @@ Variable in text: %(var)siable
 print 'INTERPOLATION:', s % values
 
 
+
